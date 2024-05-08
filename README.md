@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Experienced web developer with over 5 years of experience in web development. Fluent in programming languages Typescript and JavaScript. Proficient in popular frameworks like Next and React. Skilled in libraries such as MUI and AntDesign. Familiarity with JavaScript libraries like leaflet for maps, chartJs and Highchart for charts, AG grid for tables, formik for forms, and more. Additionally, capable of working with backend libraries and frameworks like Nest, Express, and NodeJs.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
