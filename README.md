@@ -1,7 +1,7 @@
 # whoAmI
 
 <h1 align="center">Hi 👋, I'm Farshid</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on **CRM project**
 
